@@ -11,4 +11,4 @@ citation: "Xinran Li, Xiujuan Xu, Yu Liu, Xiaowei Zhao. (2024). &quot;CheX-DS: I
 abstract: "The automatic diagnosis of chest diseases is a challenging task. CheX-DS leverages DenseNet and Swin Transformer using ensemble learning. The model addresses data imbalance with a combined weighted binary cross-entropy and asymmetric loss. Evaluated on NIH ChestX-ray14, CheX-DS achieves an average AUC of 83.76%, outperforming previous studies."
 ---
 
-Link:https://ieeexplore.ieee.org/abstract/document/10822262
+Link: https://ieeexplore.ieee.org/abstract/document/10822262
