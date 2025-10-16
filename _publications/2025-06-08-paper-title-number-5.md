@@ -11,4 +11,4 @@ citation: "Xinran Li, Xiujuan Xu, Yu Liu, Xiaowei Zhao. (2024). &quot;CheX-DS: I
 abstract: "The automatic diagnosis of chest diseases is a challenging task. CheX-DS leverages DenseNet and Swin Transformer using ensemble learning. The model addresses data imbalance with a combined weighted binary cross-entropy and asymmetric loss. Evaluated on NIH ChestX-ray14, CheX-DS achieves an average AUC of 83.76%, outperforming previous studies."
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Link:https://ieeexplore.ieee.org/abstract/document/10822262
