@@ -23,7 +23,7 @@ repository               : "LiXinran6/LiXinran6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/证件照.jpg"
+  avatar           : "images/证件照.jpg"
   name             : "LI Xinran"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. applicant in NLP and Large Language Models. Dual-degree M.S. student at Waseda University (Japan) and Dalian University of Technology (China). Research focus: ABSA, ERC, GNNs, Curriculum Learning."
