@@ -23,7 +23,7 @@ repository               : "LiXinran6/LiXinran6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/证件照.png"
   name             : "LI Xinran"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. applicant in NLP and Large Language Models. Dual-degree M.S. student at Waseda University (Japan) and Dalian University of Technology (China). Research focus: ABSA, ERC, GNNs, Curriculum Learning."
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.co.jp/citations?user=Lk6TOCwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : 
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
