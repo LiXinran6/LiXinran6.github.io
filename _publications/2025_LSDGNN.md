@@ -4,8 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-06-08-LSD-GNN-ERC
 excerpt: "This paper proposes Long-Short Distance Graph Neural Networks combined with improved curriculum learning for emotion recognition in conversations."
-date: 2025-06-08
-venue: "Conference Name, Location"  # 请替换为实际会议名称和地点
+venue: "28th European Conference on Artificial Intelligence (ECAI-2025)"
 abstract: "This work introduces Long-Short Distance Graph Neural Networks (LSD-GNNs) to model both local and global contextual dependencies in conversations for emotion recognition. An improved curriculum learning strategy is applied to optimize training. Experiments show the proposed model outperforms previous approaches on benchmark datasets."
 ---
 Link: https://arxiv.org/abs/2507.15205
