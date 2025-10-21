@@ -49,7 +49,7 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 **1. Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation**  
 *ECAI 2025 (CORE A)* — **First Author**  
 > Developed a novel **LSDGNN + ICL** framework combining long- and short-distance GNNs for ERC tasks, improving emotion classification on **IEMOCAP** and **MELD** datasets.  
-[Paper (arXiv:2507.15205)](https://arxiv.org/abs/2507.15205) | [Code (GitHub)](https://github.com/LiXinran6)
+[Paper (arXiv:2507.15205)](https://arxiv.org/abs/2507.15205) | [Code (GitHub)](https://github.com/LiXinran6/LSDGNN_ICL)
 
 **2. A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**  
 *Submitted to ICASSP 2026* — **Third Author (Second among students)**  
