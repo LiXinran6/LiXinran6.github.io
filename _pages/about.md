@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinran Li | 李欣然"
+title: "LI Xinran"
 author_profile: true
 redirect_from: 
   - /about/
