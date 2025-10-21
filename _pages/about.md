@@ -84,5 +84,4 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 - [963707605@mail.dlut.edu.cn](mailto:963707605@mail.dlut.edu.cn)  
 - [963707605a@gmail.com](mailto:963707605a@gmail.com)  
 
-**GitHub:** [LiXinran6](https://github.com/LiXinran6)  
-**Website:** [https://lixinran6.github.io/](https://lixinran6.github.io/)
+I am currently **actively applying for Ph.D. positions** — please feel free to contact me if you are interested in research collaboration or supervision opportunities!
