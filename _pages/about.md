@@ -38,8 +38,7 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 - Natural Language Processing (NLP)  
 - Emotion Recognition in Conversation (ERC)  
 - Aspect-Based Sentiment Analysis (ABSA)  
-- Large Language Models (LLMs)  
-- Graph Neural Networks (GNNs)  
+- Large Language Models (LLMs)   
 - Curriculum Learning (CL)
 
 ---
