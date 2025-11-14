@@ -48,11 +48,13 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 
 **1. Do LLMs Feel? Teaching Emotion Recognition with Prompts, Retrieval, and Curriculum Learning**  
 *AAAI 2026 (CORE A\*, **CCF A**)* — **First Author**  
+**Authors:** **Xinran Li**, Yu Liu, Jiaqi Qiao, Xiujuan Xu  
 > We propose **PRC-Emo**, a new ERC training framework that integrates **Prompt engineering**, **demo Retrieval**, and **Curriculum learning** to investigate whether LLMs can effectively perceive emotions in conversations. PRC-Emo introduces emotion-sensitive prompt templates capturing both explicit and implicit emotional cues, constructs the first **ERC-specific demonstration retrieval repository**, and incorporates curriculum strategies into **LoRA fine-tuning** via weighted emotional shifts. Experiments on **IEMOCAP** and **MELD** achieve **new SOTA results**, demonstrating the strong generalizability of our approach.  
 [Paper (arXiv:2511.07061)](https://arxiv.org/abs/2511.07061) | [Code (GitHub)](https://github.com/LiXinran6/PRC-Emo)
 
 **2. Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation**  
 *ECAI 2025 (CORE A, **CCF B**)* — **First Author**  
+**Authors:** **Xinran Li**, Xiujuan Xu, Jiaqi Qiao
 > Developed a novel **LSDGNN + ICL** framework combining long- and short-distance GNNs for ERC tasks, improving emotion classification on **IEMOCAP** and **MELD** datasets.  
 [Paper (arXiv:2507.15205)](https://arxiv.org/abs/2507.15205) | [Code (GitHub)](https://github.com/LiXinran6/LSDGNN_ICL)
 
@@ -62,6 +64,7 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 
 **4. CheX-DS: Improving Chest X-ray Image Classification with Ensemble Learning Based on DenseNet and Swin Transformer**  
 *IEEE BIBM 2024 (**CCF B**)* — **First Author**  
+**Authors:** **Xinran Li**, Xiujuan Xu, Yu Liu, Xiaowei Zhao 
 > Designed **CheX-DS**, combining DenseNet and Swin Transformer for long-tail medical image classification, achieving **83.76% AUC** on NIH ChestX-ray14 dataset.
 
 ---
