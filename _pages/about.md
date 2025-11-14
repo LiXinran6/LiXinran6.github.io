@@ -13,7 +13,7 @@ I am **LI Xinran (李欣然)**, a dual-degree **M.S. student** at **Waseda Unive
 My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspect-Based Sentiment Analysis (ABSA)**, leveraging large language model techniques and designing **Curriculum Learning frameworks** for downstream NLP tasks.
 
 
-> *“Advancing cutting-edge research on downstream tasks in natural language processing through LLMs.”*
+> I am currently **actively applying for Ph.D. positions** — please feel free to contact me!
 
 ---
 
@@ -86,6 +86,7 @@ Authors: **Xinran Li**, Xiujuan Xu, Yu Liu, Xiaowei Zhao
 ---
 
 📫 **Contact:**  
+
 **Email:**  
 - [lixinran@ruri.waseda.jp](mailto:lixinran@ruri.waseda.jp)  
 - [963707605@mail.dlut.edu.cn](mailto:963707605@mail.dlut.edu.cn)  
