@@ -28,7 +28,7 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
   *Outstanding Master’s Student Award (Top 20/300).*
 
 - **Dalian University of Technology**, School of Software — *B.Eng. in Software Engineering (2020–2024)*  
-  Undergraduate research in **NLP** and **medical imaging**.
+  Undergraduate research in **NLP** and **medical imaging**.  
   **Average Score: 88**, **GPA: 3.8/4.0**  
   *Direct Admission to Master’s Program (Top 17%).*
 
