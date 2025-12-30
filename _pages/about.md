@@ -94,3 +94,12 @@ Authors: **Xinran Li**, Xiujuan Xu, Yu Liu, Xiaowei Zhao
 - [963707605a@gmail.com](mailto:963707605a@gmail.com)  
 
 I am currently **actively applying for Ph.D. positions** — please feel free to contact me if you are interested in research collaboration or supervision opportunities!
+
+## 🌍 Visitors
+
+<!-- ClustrMaps Visitor Map -->
+<div style="text-align:center; margin-top:20px;">
+  <script type="text/javascript" id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=o8V8EzrMnamCm6StUNJJ87_3mPFpZQuvnnevuU2jpDc&cl=ffffff&w=a">
+  </script>
+</div>
