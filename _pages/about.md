@@ -95,8 +95,6 @@ Authors: **Xinran Li**, Xiujuan Xu, Yu Liu, Xiaowei Zhao
 
 I am currently **actively applying for Ph.D. positions** — please feel free to contact me if you are interested in research collaboration or supervision opportunities!
 
-## 🌍 Visitors
-
 <!-- ClustrMaps Visitor Map -->
 <div style="text-align:center; margin-top:20px;">
   <script type="text/javascript" id="clustrmaps"
