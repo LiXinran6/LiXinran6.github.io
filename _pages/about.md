@@ -46,32 +46,6 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 
 ## 🧩 Publications
 
-<!-- BEGIN PUBLICATIONS -->
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">AAAI 2026</div>
-      <img src="images/PRC-Emo.png" alt="PRC-Emo teaser">
-    </div>
-  </div>
-
-  <div class="paper-box-text" markdown="1">
-
-### Do LLMs Feel? Teaching Emotion Recognition with Prompts, Retrieval, and Curriculum Learning  
-**AAAI 2026 (CORE A\*, CCF A)** — **First Author**
-
-**Xinran Li**, Yu Liu, Jiaqi Qiao, Xiujuan Xu
-
-[**Paper**](https://arxiv.org/abs/2511.07061) ·
-[**Code**](https://github.com/LiXinran6/PRC-Emo)
-
-- We propose **PRC-Emo**, a new ERC framework integrating prompt engineering, retrieval, and curriculum learning.
-- Achieves **new SOTA** on **IEMOCAP** and **MELD**.
-
-  </div>
-</div>
-
 **1. Do LLMs Feel? Teaching Emotion Recognition with Prompts, Retrieval, and Curriculum Learning**  
 *AAAI 2026 (CORE A\*, CCF A)* — **First Author**  
 Authors: **Xinran Li**, Yu Liu, Jiaqi Qiao, Xiujuan Xu  
