@@ -59,7 +59,7 @@ Authors: **Xinran Li**, Xiujuan Xu, Jiaqi Qiao
 [Paper (arXiv:2507.15205)](https://arxiv.org/abs/2507.15205) | [Code (GitHub)](https://github.com/LiXinran6/LSDGNN_ICL)
 
 **3. A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**  
-*Submitted to ICASSP 2026* — **Third Author (Second among students)**  
+*Submitted to ICME 2026* — **Third Author (Second among students)**  
 > Proposed an **Expert-Guided Multimodal Fusion (EGMF)** framework integrating multimodal cues via LLMs and LoRA fine-tuning, achieving superior results on **MELD**, **CHERMA**, **MOSEI**, and **SIMS-V2** datasets.
 
 **4. CheX-DS: Improving Chest X-ray Image Classification with Ensemble Learning Based on DenseNet and Swin Transformer**  
