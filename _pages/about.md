@@ -73,6 +73,7 @@ Authors: **Xinran Li**, Xiaowei Zhao, Yubo Zhu, Zhiheng Zhang, Zhiqi Huang, Hong
 **5. A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**  
 *Under Review* — **Third Author (Second among students)**  
 > Proposed an **Expert-Guided Multimodal Fusion (EGMF)** framework integrating multimodal cues via LLMs and LoRA fine-tuning, achieving superior results on **MELD**, **CHERMA**, **MOSEI**, and **SIMS-V2** datasets.
+
 ---
 
 ## 🏅 Honors & Awards
