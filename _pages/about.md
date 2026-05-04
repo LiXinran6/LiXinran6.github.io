@@ -76,7 +76,7 @@ Authors: **Xinran Li**, Xiaowei Zhao, Yubo Zhu, Zhiheng Zhang, Zhiqi Huang, Hong
 > Proposed an Extensible Multi-Granularity Fusion (EMGF) network that unifies dependency syntax, constituency syntax, attentional semantics, and external knowledge graph information. It achieves efficient feature collaborative modeling through multi-anchor triplet learning and orthogonal projection, incorporating a transferable curriculum learning strategy to enhance model generalization.  
 [Paper (arXiv:2402.07787)](https://arxiv.org/abs/2402.07787)
 
-**5. A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**  
+**6. A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**  
 *Under Review* — **Third Author (Second among students)**  
 Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu  
 > Proposed an **Expert-Guided Multimodal Fusion (EGMF)** framework integrating multimodal cues via LLMs and LoRA fine-tuning, achieving superior results on **MELD**, **CHERMA**, **MOSEI**, and **SIMS-V2** datasets.  
