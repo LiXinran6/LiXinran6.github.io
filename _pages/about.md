@@ -56,7 +56,7 @@ Authors: **Xinran Li**, Yu Liu, Jiaqi Qiao, Xiujuan Xu
 *IJCAI 2026 (CORE A\*, CCF B)* — **First Author**  
 Authors: **Xinran Li**, Xinze Che, Yifan Lyu, Zhiqi Huang, Xiujuan Xu 
 > We propose **TCDA**, a novel framework for Conversational Aspect-based Sentiment Quadruple Analysis (DiaASQ) that addresses structural noise and temporal sequence challenges in multi-turn dialogues. The framework introduces Thread-Constrained Directed Acyclic Graph (TC-DAG) to filter cross-thread noise while maintaining global connectivity, and Discourse-Aware Rotary Position Embedding (D-RoPE) to align multi-layer semantics and alleviate the Distance Dilution problem. Experimental results on two benchmark datasets demonstrate that our approach achieves new state-of-the-art performance.  
-[Code (GitHub)](https://github.com/LiXinran6/TCDA)
+[Paper (arxiv)](https://arxiv.org/abs/2605.01717) | [Code (GitHub)](https://github.com/LiXinran6/TCDA)
 
 **3. Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation**  
 *ECAI 2025 (CORE A, CCF B)* — **First Author**  
