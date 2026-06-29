@@ -110,9 +110,9 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 
 I am currently **actively applying for Ph.D. positions** — please feel free to contact me if you are interested in research collaboration or supervision opportunities!
 
-<!-- ClustrMaps Visitor Map -->
+<!-- RevolverMaps Visitor Map -->
 <div style="text-align:center; margin-top:20px;">
-  <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=o8V8EzrMnamCm6StUNJJ87_3mPFpZQuvnnevuU2jpDc&cl=ffffff&w=a">
-  </script>
+  <iframe src="https://revolvermaps2.com/widget/8ccdcd6d-712e-41d4-8a2d-d667181d63d0" 
+    width="320" height="320" style="border:0;" loading="lazy">
+  </iframe>
 </div>
