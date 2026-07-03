@@ -45,10 +45,9 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 ---
 ## 💼 Professional Experience
 
-**Bilibili (Shanghai, China)**
-*Algorithm Intern, Game AI Application Technical Group*
-Mar. 2026 – Jul. 2026
-
+**Bilibili (Shanghai, China)**  
+*Algorithm Intern, Game AI Application Technical Group*  
+Mar. 2026 – Jul. 2026  
 - Built a Japanese-to-Chinese/multilingual translation pipeline for a well-known Japanese mobile game, leveraging a RAG framework with integrated terminology and memory databases.
 - Developed a multi-stage translation quality estimation (QE) system featuring rule-based validation, lightweight classification, and deep LLM review to enable an automated feedback loop for quality optimization.
 - Engineered a domain-specific professional translation model by fine-tuning Qwen3-8B using SFT and GRPO strategies, complemented by a customized reward mechanism.
