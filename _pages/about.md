@@ -45,7 +45,7 @@ My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspec
 ---
 ## 💼 Professional Experience
 
-**Bilibili (Shanghai, China)**  
+**bilibili (Shanghai, China)**  
 *Algorithm Intern, Game AI Application Technical Group*  
 Mar. 2026 – Jul. 2026  
 - Built a Japanese-to-Chinese/multilingual translation pipeline for a well-known Japanese mobile game, leveraging a RAG framework with integrated terminology and memory databases.
