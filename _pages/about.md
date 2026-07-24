@@ -143,8 +143,8 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 
 ## 🛠️ Skills
 
-**Programming & Frameworks:** Python, Java, PyTorch, HuggingFace Transformers, Git, LaTeX
-**Research Areas:** Large Language Models (LLMs), Multi-Agent Systems, Social Simulation, Natural Language Processing (NLP), Curriculum Learning, Machine Translation
+**Programming & Frameworks:** Python, Java, PyTorch, HuggingFace Transformers, Git, LaTeX  
+**Research Areas:** Large Language Models (LLMs), Multi-Agent Systems, Social Simulation, Natural Language Processing (NLP), Curriculum Learning, Machine Translation  
 **Standardized Tests:** TOEFL iBT 95, GRE 322
 
 ---
