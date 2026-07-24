@@ -7,50 +7,88 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 Welcome!
+## 👋 About Me
 
-I am **LI Xinran (李欣然)**, a dual-degree **M.S. student** at **Waseda University** (Japan) and **Dalian University of Technology** (China), specializing in **Natural Language Processing (NLP)**.  
-My research focuses on **Emotion Recognition in Conversation (ERC)** and **Aspect-Based Sentiment Analysis (ABSA)**, leveraging large language model techniques and designing **Curriculum Learning frameworks** for downstream NLP tasks.
+I am **LI Xinran (李欣然)**, a dual-degree M.S. student at **Waseda University** (Japan) and **Dalian University of Technology** (China).
+
+My current research focuses on **Large Language Model (LLM)-based Multi-Agent Systems and Social Simulation**, where I study information diffusion, opinion evolution, and collective behaviors through cognitively diverse LLM agents.
+
+Previously, my research centered on **Affective Computing**, including **Emotion Recognition in Conversation (ERC)**, **Aspect-Based Sentiment Analysis (ABSA)**, and **Machine Translation**, with particular interests in curriculum learning and large language model alignment.
 
 
-> I am currently **actively applying for Ph.D. positions** — please feel free to contact me!
+> I am currently **actively applying for Ph.D. positions (2027 Fall Intake)** — please feel free to contact me!
+
+---
+
+## 🔥 News
+
+- **Jul. 2026** Joined **Fudan University** as a Research Assistant working on LLM-based Social Simulation.
+- **May. 2026** One first-author paper accepted to IJCAI 2026.
+- **Mar. 2026** Joined **bilibili** as an Algorithm Intern in the Game AI Application Technical Group.
+- **Nov. 2025** One first-author paper accepted to AAAI 2026.
+- **Sep. 2025** Started my dual-degree M.S. program at **Waseda University**, Japan — my first international academic experience.
+- **Jul. 2025** One first-author paper accepted to ECAI 2025.
+- **Nov. 2024** One first-author paper accepted to IEEE BIBM 2024.
 
 ---
 
 ## 🎓 Education
 
-- **Waseda University**, Graduate School of Information, Production and Systems — *Dual M.S. Degree (Expected Mar. 2027)*  
-  Research on **Aspect-Based Sentiment Analysis (ABSA)** with **Curriculum Learning** and **Large Language Models**.  
+- **Waseda University**, Graduate School of Information, Production and Systems — *Dual M.S. Degree (Sep. 2025 – Expected Mar. 2027)*  
+  Research on **Dialogue-level Aspect-Based Sentiment Analysis (DiaASQ)** and **LLM-based Aspect-Based Sentiment Analysis (ABSA)**.  
   *Kitakyushu Academic Research City Scholarship Recipient.*
 
-- **Dalian University of Technology**, School of Software — *Dual M.S. Degree (Expected 2027)*  
-  Research on **Emotion Recognition in Conversation (ERC)** using **Graph Neural Networks** and **Improved Curriculum Learning**.  
-  *Outstanding Master’s Student Award (Top 20/300).*
+- **Dalian University of Technology**, School of Software — *Dual M.S. Degree (Sep. 2024 – Expected Jun. 2027)*  
+  Research on **Emotion Recognition in Conversation (ERC)** using **Large Language Models**, **Graph Neural Networks**, and **Curriculum Learning**.  
+  **Master's GPA:** 88.6/100  
+  *Outstanding Master's Student Award (Top 20/300).*
 
-- **Dalian University of Technology**, School of Software — *B.Eng. in Software Engineering (2020–2024)*  
-  Undergraduate research in **NLP** and **medical imaging**.  
-  **Average Score: 88**, **GPA: 3.8/4.0**  
-  *Direct Admission to Master’s Program (Top 17%).*
+- **Dalian University of Technology**, School of Software — *B.Eng. in Software Engineering (Sep. 2020 – Jun. 2024)*  
+  Undergraduate research in **Natural Language Processing (NLP)** and **Medical Image Analysis**.  
+  **Undergraduate GPA:** 87.8/100  
+  *Direct Admission to the M.S. Program (Top 17%).*
 
 ---
 
 ## 🧠 Research Interests
 
-- Natural Language Processing (NLP)  
-- Emotion Recognition in Conversation (ERC)  
-- Aspect-Based Sentiment Analysis (ABSA)  
-- Large Language Models (LLMs)   
-- Curriculum Learning (CL)
+### Current Research
+
+- Large Language Model (LLM)-based Multi-Agent Systems
+- Social Simulation
+- Large Language Models (LLMs)
+
+### Previous Research
+
+- Emotion Recognition in Conversation (ERC)
+- Aspect-Based Sentiment Analysis (ABSA)
+- Machine Translation
+- Curriculum Learning
 
 ---
+
 ## 💼 Professional Experience
 
-**bilibili (Shanghai, China)**  
-*Algorithm Intern, Game AI Application Technical Group*  
-Mar. 2026 – Jul. 2026  
-- Built a Japanese-to-Chinese/multilingual translation pipeline for a well-known Japanese mobile game, leveraging a RAG framework with integrated terminology and memory databases.
-- Developed a multi-stage translation quality estimation (QE) system featuring rule-based validation, lightweight classification, and deep LLM review to enable an automated feedback loop for quality optimization.
-- Engineered a domain-specific professional translation model by fine-tuning Qwen3-8B using SFT and GRPO strategies, complemented by a customized reward mechanism.
+### Fudan University (Shanghai, China)
+
+**Research Assistant**  
+*Jun. 2026 – Aug. 2026*
+
+Supervised by: [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [Dr. Xinyi Mou](https://xymou.github.io/)
+
+- Developed an LLM-based social simulation platform supporting million-agent opinion evolution and information dissemination.
+- Built a 200,000+ KOL database for realistic LLM agent initialization.
+- Designed a dynamic agent activation algorithm for cross-time-zone and interest-aware user scheduling.
+- Developed a hierarchical behavior engine supporting heterogeneous agent modeling.
+
+### bilibili (Shanghai, China)
+
+**Algorithm Intern, Game AI Application Technical Group**  
+*Mar. 2026 – Jun. 2026*
+
+- Built a multilingual translation pipeline for a well-known Japanese mobile game using Retrieval-Augmented Generation (RAG) with terminology and translation memory databases.
+- Developed a multi-stage translation quality estimation (QE) system integrating rule-based methods, lightweight classifiers, and LLM review.
+- Fine-tuned Qwen3-8B using SFT, GRPO, and a customized reward mechanism for game-domain machine translation.
 
 ---
 
@@ -105,9 +143,9 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 
 ## 🛠️ Skills
 
-**Programming & Tools:** Python, Java, LaTeX, Git, Jupyter Notebook, PyTorch, HuggingFace Transformers  
-**Domains:** Graph Neural Networks, Transformers, Curriculum Learning, Large Language Models
-**Standardized Tests:** TOEFL 95, GRE 322
+**Programming & Frameworks:** Python, Java, PyTorch, HuggingFace Transformers, Git, LaTeX
+**Research Areas:** Large Language Models (LLMs), Multi-Agent Systems, Social Simulation, Natural Language Processing (NLP), Curriculum Learning, Machine Translation
+**Standardized Tests:** TOEFL iBT 95, GRE 322
 
 ---
 
@@ -118,4 +156,4 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 - [963707605@mail.dlut.edu.cn](mailto:963707605@mail.dlut.edu.cn)  
 - [963707605a@gmail.com](mailto:963707605a@gmail.com)  
 
-I am currently **actively applying for Ph.D. positions** — please feel free to contact me if you are interested in research collaboration or supervision opportunities!
+I am currently seeking Ph.D. opportunities for the **2027 Fall intake**. I am always happy to discuss research ideas and potential collaborations. Feel free to reach out via email.
