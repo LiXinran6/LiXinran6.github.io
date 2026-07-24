@@ -68,9 +68,9 @@ Previously, my research centered on **Affective Computing**, including **Emotion
 ---
 
 ## 💼 Professional Experience
-
-### Fudan University (Shanghai, China)
 <!--
+### Fudan University (Shanghai, China)
+
 **Research Assistant**  
 *Jun. 2026 – Aug. 2026*
 
