@@ -132,6 +132,14 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 
 ---
 
+## 🤝 Professional Service
+
+### Conference Reviewing
+
+- Reviewer, AAAI 2027
+
+---
+
 ## 🏅 Honors & Awards
 
 - **Kitakyushu Academic Research City Scholarship**, Waseda University (2025)  
