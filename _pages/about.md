@@ -134,9 +134,9 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 
 ## 🤝 Professional Service
 
-### Conference Reviewing
+### Program Committee Member
 
-- Reviewer, AAAI 2027
+- AAAI 2027
 
 ---
 
