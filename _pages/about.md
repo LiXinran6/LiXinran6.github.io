@@ -21,7 +21,7 @@ Previously, my research centered on **Affective Computing**, including **Emotion
 ---
 
 ## 🔥 News
-- **Aug. 2026** Attended **IJCAI 2026** in Bremen, Germany — my first time traveling abroad for an academic conference and exchanging ideas with researchers from around the world.
+- **Aug. 2026** Attended IJCAI in Bremen, Germany — my first time attending an academic conference abroad and my first visit to Europe:)
 - **Jul. 2026** Joined **Fudan University** as a Research Assistant working on LLM-based Social Simulation.
 - **May. 2026** One first-author paper accepted to IJCAI 2026.
 - **Mar. 2026** Joined **bilibili** as an Algorithm Intern in the Game AI Application Technical Group.
