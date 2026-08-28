@@ -68,19 +68,18 @@ Previously, my research centered on **Affective Computing**, including **Emotion
 ---
 
 ## 💼 Professional Experience
-<!--
+
 ### Fudan University (Shanghai, China)
 
 **Research Assistant**  
-*Jun. 2026 – Aug. 2026*
+*Jul. 2026 – Sep. 2026*
 
 Supervised by: [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [Dr. Xinyi Mou](https://xymou.github.io/)
 
 - Developed an LLM-based social simulation platform supporting million-agent opinion evolution and information dissemination.
-- Built a 200,000+ KOL database for realistic LLM agent initialization.
-- Designed a dynamic agent activation algorithm for cross-time-zone and interest-aware user scheduling.
-- Developed a hierarchical behavior engine supporting heterogeneous agent modeling.
--->
+- Built a database of 200,000+ key opinion leaders (KOLs) and tens of millions of global ordinary users for large-scale agent initialization.
+- Designed a novel time-zone-aware activation algorithm, a hybrid behavior engine, and a recommendation algorithm for realistic user scheduling and interaction modeling.
+
 ### bilibili (Shanghai, China)
 
 **Algorithm Intern, Game AI Application Technical Group**  
