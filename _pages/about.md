@@ -142,7 +142,7 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 ## 🏅 Honors & Awards
 
 - **Kitakyushu Academic Research City Scholarship**, Waseda University (2025)  
-- **Outstanding Master’s Student Award**, DUT (2025)  
+- **Outstanding Master’s Student Award**, DUT (2025, 2026; Top 10%)  
 - **Direct Admission to Master’s Program**, DUT (2024)  
 - **Second-Class Scholarship for Academic Excellence**, DUT (2021, 2022)  
 
