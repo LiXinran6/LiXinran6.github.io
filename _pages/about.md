@@ -115,19 +115,19 @@ Authors: **Xinran Li**, Xiujuan Xu, Jiaqi Qiao
 *IEEE BIBM 2024 (CCF B)* — **First Author**  
 Authors: **Xinran Li**, Xiujuan Xu, Yu Liu, Xiaowei Zhao 
 > Designed **CheX-DS**, combining DenseNet and Swin Transformer for long-tail medical image classification, achieving **83.76% AUC** on NIH ChestX-ray14 dataset.  
-[Paper (IEEE BIBM 2024)](https://ieeexplore.ieee.org/abstract/document/10822262)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10822262)
 
 **5. Extensible Multi-Granularity Fusion Network and Transferable Curriculum Learning for Aspect-based Sentiment Analysis**  
 *Under Review* — **First Author**  
 Authors: **Xinran Li**, Xiaowei Zhao, Yubo Zhu, Zhiheng Zhang, Zhiqi Huang, Hongkun Song, Jinglu Hu, Xinze Che, Yifan Lyu, Yong Zhou, Xiujuan Xu 
 > Proposed an Extensible Multi-Granularity Fusion (EMGF) network that unifies dependency syntax, constituency syntax, attentional semantics, and external knowledge graph information. It achieves efficient feature collaborative modeling through multi-anchor triplet learning and orthogonal projection, incorporating a transferable curriculum learning strategy to enhance model generalization.  
-[Paper (arXiv:2402.07787)](https://arxiv.org/abs/2402.07787)
+[Paper](https://arxiv.org/abs/2402.07787)
 
 **6. A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**  
 *Under Review* — **Third Author (Second among students)**  
 Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu  
 > Proposed an **Expert-Guided Multimodal Fusion (EGMF)** framework integrating multimodal cues via LLMs and LoRA fine-tuning, achieving superior results on **MELD**, **CHERMA**, **MOSEI**, and **SIMS-V2** datasets.  
-[Paper (arXiv:2601.07565)](https://arxiv.org/abs/2601.07565)
+[Paper](https://arxiv.org/abs/2601.07565)
 
 ---
 
