@@ -97,19 +97,19 @@ Supervised by: [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [
 *AAAI 2026 (CORE A\*, CCF A)* — **First Author**  
 Authors: **Xinran Li**, Yu Liu, Jiaqi Qiao, Xiujuan Xu  
 > We propose **PRC-Emo**, a new ERC training framework that integrates **Prompt engineering**, **demo Retrieval**, and **Curriculum learning** to investigate whether LLMs can effectively perceive emotions in conversations. PRC-Emo introduces emotion-sensitive prompt templates capturing both explicit and implicit emotional cues, constructs the first **ERC-specific demonstration retrieval repository**, and incorporates curriculum strategies into **LoRA fine-tuning** via weighted emotional shifts. Experiments on **IEMOCAP** and **MELD** achieve **new SOTA results**, demonstrating the strong generalizability of our approach.  
-[Paper (DOI:10.1609/aaai.v40i38.40446)](https://ojs.aaai.org/index.php/AAAI/article/view/40446) | [Code (GitHub)](https://github.com/LiXinran6/PRC-Emo)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40446) | [Code (GitHub)](https://github.com/LiXinran6/PRC-Emo)
 
 **2. TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis**  
 *IJCAI 2026 (CORE A\*, CCF B)* — **First Author**  
 Authors: **Xinran Li**, Xinze Che, Yifan Lyu, Zhiqi Huang, Xiujuan Xu 
 > We propose **TCDA**, a novel framework for Conversational Aspect-based Sentiment Quadruple Analysis (DiaASQ) that addresses structural noise and temporal sequence challenges in multi-turn dialogues. The framework introduces Thread-Constrained Directed Acyclic Graph (TC-DAG) to filter cross-thread noise while maintaining global connectivity, and Discourse-Aware Rotary Position Embedding (D-RoPE) to align multi-layer semantics and alleviate the Distance Dilution problem. Experimental results on two benchmark datasets demonstrate that our approach achieves new state-of-the-art performance.  
-[Paper (arxiv)](https://arxiv.org/abs/2605.01717) | [Code (GitHub)](https://github.com/LiXinran6/TCDA)
+[Paper](https://www.ijcai.org/proceedings/2026/647) | [Code (GitHub)](https://github.com/LiXinran6/TCDA)
 
 **3. Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation**  
 *ECAI 2025 (CORE A, CCF B)* — **First Author**  
 Authors: **Xinran Li**, Xiujuan Xu, Jiaqi Qiao
 > Developed a novel **LSDGNN + ICL** framework combining long- and short-distance GNNs for ERC tasks, improving emotion classification on **IEMOCAP** and **MELD** datasets.  
-[Paper (DOI:10.3233/FAIA251292)](https://ebooks.iospress.nl/doi/10.3233/FAIA251292) | [Code (GitHub)](https://github.com/LiXinran6/LSDGNN_ICL)
+[Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA251292) | [Code (GitHub)](https://github.com/LiXinran6/LSDGNN_ICL)
 
 **4. CheX-DS: Improving Chest X-ray Image Classification with Ensemble Learning Based on DenseNet and Swin Transformer**  
 *IEEE BIBM 2024 (CCF B)* — **First Author**  
