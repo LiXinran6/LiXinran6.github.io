@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="portfolio-shell" data-prc-image="{{ '/images/papers/prc-emo-architecture.png' | relative_url }}" data-tcda-image="{{ '/images/papers/tcda-architecture.png' | relative_url }}" data-lsdgnn-image="{{ '/images/papers/lsdgnn-icl-architecture.png' | relative_url }}">
+  <a class="portfolio-skip" href="#portfolio-content">Skip to content</a>
+  <nav class="portfolio-nav" aria-label="Homepage sections">
+    <a class="portfolio-brand" href="#intro">XL<span>Xinran Li</span></a>
+    <div><a href="#about">About</a><a href="#education">Education</a><a href="#publications">Publications</a><a href="#experience">Experience</a><a href="#contact">Contact ↗</a></div>
+  </nav>
+  <main id="portfolio-content">
+    <header class="portfolio-hero" id="intro">
+      <div class="hero-copy">
+        <p class="eyebrow">AI · NLP · LLM</p>
+        <h1>Xinran Li<span lang="zh">李欣然</span></h1>
+        <p class="hero-statement">Advancing language understanding.<br><em>Exploring the potential of LLMs.</em></p>
+        <p class="hero-description">Dual-degree M.S. student at Waseda University and Dalian University of Technology. Working on Natural Language Processing (NLP) and Large Language Models (LLMs).</p>
+        <div class="hero-actions"><a class="portfolio-button" href="#publications">Explore my research <span aria-hidden="true">↗</span></a><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a><a href="https://github.com/{{ site.author.github }}">GitHub ↗</a></div>
+        <a class="availability" href="mailto:{{ site.author.email }}"><span aria-hidden="true"></span>Seeking Ph.D. opportunities · Fall 2027</a>
+      </div>
+      <figure class="hero-portrait"><div class="portrait-frame"><img src="{{ '/images/photo.jpg' | relative_url }}" alt="Portrait of Xinran Li" width="2178" height="3078" fetchpriority="high"></div><figcaption><span>BASED IN JAPAN</span>Kitakyushu, Fukuoka <span aria-hidden="true">↗</span></figcaption></figure>
+    </header>
+    <div class="research-ribbon" aria-label="Research focus"><span>RESEARCH FOCUS</span><p>Large Language Models</p><span aria-hidden="true">✳</span><p>Multi-Agent Systems</p><span aria-hidden="true">✳</span><p>Natural Language Processing</p></div>
+    <div class="portfolio-sections">
+      {% assign sections = content | split: '<hr />' %}
+      {% assign section_ids = 'about,news,education,research,experience,publications,service,awards,skills,contact' | split: ',' %}
+      {% for section in sections %}
+      <section class="portfolio-section section-{{ section_ids[forloop.index0] }}" id="{{ section_ids[forloop.index0] }}">
+        <div class="section-index" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+        <div class="section-content">{{ section }}</div>
+      </section>
+      {% endfor %}
+    </div>
+    <footer class="portfolio-footer"><span>Xinran Li · 李欣然</span><span>Language, intelligence &amp; the connections between us.</span><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a><a href="#intro">Back to top ↑</a></footer>
+  </main>
+</div>
+<script src="{{ '/assets/js/portfolio.js' | relative_url }}" defer></script>

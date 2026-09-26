@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "LI Xinran"
-author_profile: true
+layout: portfolio
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -39,9 +40,10 @@ Previously, my research centered on **Affective Computing**, including **Emotion
   *Kitakyushu Academic Research City Scholarship Recipient.*
 
 - **Dalian University of Technology**, School of Software — *Dual M.S. Degree (Sep. 2024 – Expected Jun. 2027)*  
-  Research on **Emotion Recognition in Conversation (ERC)** using **Large Language Models**, **Graph Neural Networks**, and **Curriculum Learning**.  
-  **Master's GPA:** 88.6/100  
-  *Outstanding Master's Student Award (Top 20/300).*
+  Research on **Emotion Recognition in Conversation (ERC)** using **Large Language Models**, **Graph Neural Networks**, and **Curriculum Learning**.<br>
+  **Master's GPA:** 88.6/100<br>
+  *National Scholarship for Graduate Students (Top 1%).*<br>
+*Outstanding Master's Student Award (Top 10%).*
 
 - **Dalian University of Technology**, School of Software — *B.Eng. in Software Engineering (Sep. 2020 – Jun. 2024)*  
   Undergraduate research in **Natural Language Processing (NLP)** and **Medical Image Analysis**.  
@@ -97,6 +99,7 @@ Supervised by: [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [
 *AAAI 2026 (CORE A\*, CCF A)* — **First Author**  
 Authors: **Xinran Li**, Yu Liu, Jiaqi Qiao, Xiujuan Xu  
 > We propose **PRC-Emo**, a new ERC training framework that integrates **Prompt engineering**, **demo Retrieval**, and **Curriculum learning** to investigate whether LLMs can effectively perceive emotions in conversations. PRC-Emo introduces emotion-sensitive prompt templates capturing both explicit and implicit emotional cues, constructs the first **ERC-specific demonstration retrieval repository**, and incorporates curriculum strategies into **LoRA fine-tuning** via weighted emotional shifts. Experiments on **IEMOCAP** and **MELD** achieve **new SOTA results**, demonstrating the strong generalizability of our approach.  
+
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40446) | [Code](https://github.com/LiXinran6/PRC-Emo)
 
 **2. TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis**  
@@ -137,6 +140,10 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 
 - AAAI 2027
 
+### Journal Reviewer
+
+- IEEE Transactions on Affective Computing
+
 ---
 
 ## 🏅 Honors & Awards
@@ -157,7 +164,7 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 
 ---
 
-📫 **Contact:**  
+## Contact
 
 **Email:**  
 - [lixinran@ruri.waseda.jp](mailto:lixinran@ruri.waseda.jp)  
@@ -165,4 +172,3 @@ Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu
 - [963707605a@gmail.com](mailto:963707605a@gmail.com)  
 
 I am currently seeking Ph.D. opportunities for the **2027 Fall intake**. I am always happy to discuss research ideas and potential collaborations. Feel free to reach out via email.
-
