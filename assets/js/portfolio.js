@@ -16,6 +16,9 @@
       }
       if (card) card.appendChild(node);
     });
+    publications.querySelectorAll('.publication-card p').forEach(paragraph => {
+      if (paragraph.querySelector('a') && /Paper/.test(paragraph.textContent)) paragraph.classList.add('publication-links');
+    });
     const addArchitecture = (paper, imageUrl, label, alt) => {
       const details = document.createElement('details');
       details.className = 'paper-architecture';
