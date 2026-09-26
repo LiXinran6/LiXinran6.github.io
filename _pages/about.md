@@ -100,7 +100,7 @@ Supervised by: [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [
 Authors: **Xinran Li**, Yu Liu, Jiaqi Qiao, Xiujuan Xu  
 > We propose **PRC-Emo**, a new ERC training framework that integrates **Prompt engineering**, **demo Retrieval**, and **Curriculum learning** to investigate whether LLMs can effectively perceive emotions in conversations. PRC-Emo introduces emotion-sensitive prompt templates capturing both explicit and implicit emotional cues, constructs the first **ERC-specific demonstration retrieval repository**, and incorporates curriculum strategies into **LoRA fine-tuning** via weighted emotional shifts. Experiments on **IEMOCAP** and **MELD** achieve **new SOTA results**, demonstrating the strong generalizability of our approach.  
 
-[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40446) | [Code](https://github.com/LiXinran6/PRC-Emo)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40446) &nbsp;·&nbsp; [Code](https://github.com/LiXinran6/PRC-Emo)
 
 **2. TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis**  
 *IJCAI 2026 (CORE A\*, CCF B)* — **First Author**  
