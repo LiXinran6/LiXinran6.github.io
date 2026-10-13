@@ -129,7 +129,7 @@ Authors: **Xinran Li**, Xiujuan Xu, Yu Liu, Xiaowei Zhao
 Authors: Ping Guo, Zhiqi Huang, **Xinran Li**  
 > We propose **FTC-Seg**, a Feature-Threshold dual-Calibration framework for robust semi-supervised semantic segmentation under **imaging noise** and **long-tailed class imbalance**. By integrating **Orthogonal Prototype Reconstruction (OPR)** for feature purification and **Adaptive Threshold Calibration (ATC)** for class-aware pseudo-label selection, FTC-Seg achieves strong performance across four benchmarks, particularly on tail classes.
 
-[Paper](https://arxiv.org/abs/2609.33668) | [Code](https://github.com/pingggg516/FTC-Seg)
+[Paper](https://arxiv.org/abs/2609.33668) &nbsp;&#124;&nbsp; [Code](https://github.com/pingggg516/FTC-Seg)
 
 
 **6. Extensible Multi-Granularity Fusion Network and Transferable Curriculum Learning for Aspect-based Sentiment Analysis**  
