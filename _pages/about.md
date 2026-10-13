@@ -123,19 +123,23 @@ Authors: **Xinran Li**, Xiujuan Xu, Yu Liu, Xiaowei Zhao
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/10822262)
 
-**5. Extensible Multi-Granularity Fusion Network and Transferable Curriculum Learning for Aspect-based Sentiment Analysis**  
+
+**5. When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling**  
+*NeurIPS 2026 (CORE A\*, CCF A)* — **Third Author**  
+Authors: Ping Guo, Zhiqi Huang, **Xinran Li**  
+> We propose **FTC-Seg**, a Feature-Threshold dual-Calibration framework for robust semi-supervised semantic segmentation under **imaging noise** and **long-tailed class imbalance**. By integrating **Orthogonal Prototype Reconstruction (OPR)** for feature purification and **Adaptive Threshold Calibration (ATC)** for class-aware pseudo-label selection, FTC-Seg achieves strong performance across four benchmarks, particularly on tail classes.
+
+[Paper](https://arxiv.org/abs/2609.33668) | [Code](https://github.com/pingggg516/FTC-Seg)
+
+
+**6. Extensible Multi-Granularity Fusion Network and Transferable Curriculum Learning for Aspect-based Sentiment Analysis**  
 *Under Review* — **First Author**  
 Authors: **Xinran Li**, Xiaowei Zhao, Yubo Zhu, Zhiheng Zhang, Zhiqi Huang, Hongkun Song, Jinglu Hu, Xinze Che, Yifan Lyu, Yong Zhou, Xiujuan Xu 
 > Proposed an Extensible Multi-Granularity Fusion (EMGF) network that unifies dependency syntax, constituency syntax, attentional semantics, and external knowledge graph information. It achieves efficient feature collaborative modeling through multi-anchor triplet learning and orthogonal projection, incorporating a transferable curriculum learning strategy to enhance model generalization.  
 
 [Paper](https://arxiv.org/abs/2402.07787)
 
-**6. A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**  
-*Under Review* — **Third Author (Second among students)**  
-Authors: Jiaqi Qiao, Xiujuan Xu, **Xinran Li**, Yu Liu  
-> Proposed an **Expert-Guided Multimodal Fusion (EGMF)** framework integrating multimodal cues via LLMs and LoRA fine-tuning, achieving superior results on **MELD**, **CHERMA**, **MOSEI**, and **SIMS-V2** datasets.  
 
-[Paper](https://arxiv.org/abs/2601.07565)
 
 ---
 
